@@ -66,5 +66,6 @@
     <Build Include="dbo\Tables\PLAYER_REGISTRATION.sql" />
     <Build Include="dbo\Tables\PLAYER_CONTRACT.sql" />
     <Build Include="dbo\Procedures\PR_SELECT_PLAYER_DATA.sql" />
+    <Build Include="dbo\Procedures\PR_SELECT_AGE_DATA.sql" />
   </ItemGroup>
 </Project>
